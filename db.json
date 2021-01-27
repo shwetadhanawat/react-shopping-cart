@@ -1,0 +1,29 @@
+{
+  "shoes": [
+    {
+        "name": "fasdfasd",
+        "price": "100",
+        "image": "url"
+    },
+    {
+        "name": "Action",
+        "price": "10",
+        "image": "url"
+    },
+    {
+        "name": "Addidas",
+        "price": "80",
+        "image": "url"
+    },
+    {
+        "name": "Nike",
+        "price": "110",
+        "image": "url"
+    },
+    {
+        "name": "Puma",
+        "price": "90",
+        "image": "url"
+    }
+]
+}
