@@ -1,29 +1,34 @@
 {
-  "shoes": [
-    {
-        "name": "fasdfasd",
-        "price": "100",
-        "image": "url"
-    },
-    {
-        "name": "Action",
-        "price": "10",
-        "image": "url"
-    },
-    {
-        "name": "Addidas",
-        "price": "80",
-        "image": "url"
-    },
-    {
-        "name": "Nike",
-        "price": "110",
-        "image": "url"
-    },
-    {
-        "name": "Puma",
-        "price": "90",
-        "image": "url"
-    }
-]
+    "products": [
+        {
+            "name": "Nike",
+            "category": "shoe",
+            "price": "100",
+            "image": "https://i.pinimg.com/originals/d2/ca/86/d2ca86e3de1b635d9d57ef262e64cc37.jpg"
+        },
+        {
+            "name": "Action",
+            "category": "shoe",
+            "price": "10",
+            "image": "https://i.pinimg.com/originals/d2/ca/86/d2ca86e3de1b635d9d57ef262e64cc37.jpg"
+        },
+        {
+            "name": "Addidas",
+            "category": "shoe",
+            "price": "80",
+            "image": "https://i.pinimg.com/originals/d2/ca/86/d2ca86e3de1b635d9d57ef262e64cc37.jpg"
+        },
+        {
+            "name": "Nike",
+            "category": "shoe",
+            "price": "110",
+            "image": "https://i.pinimg.com/originals/d2/ca/86/d2ca86e3de1b635d9d57ef262e64cc37.jpg"
+        },
+        {
+            "name": "Puma",
+            "category": "shoe",
+            "price": "90",
+            "image": "https://i.pinimg.com/originals/d2/ca/86/d2ca86e3de1b635d9d57ef262e64cc37.jpg"
+        }
+    ]
 }
